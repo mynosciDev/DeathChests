@@ -2,7 +2,7 @@ package fr.mynosci;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class deathchests extends JavaPlugin {
+public final class DeathChests extends JavaPlugin {
 
     @Override
     public void onEnable() {
