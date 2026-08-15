@@ -1,5 +1,5 @@
 name: DeathChests
 version: '1.0'
-main: fr.mynosci.deathchests
+main: fr.mynosci.deathchests.DeathChests
 api-version: '1.21'
 authors: [ mynosci ]
